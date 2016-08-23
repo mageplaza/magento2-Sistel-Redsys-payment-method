@@ -1,2 +1,5 @@
 # magento2-Sistel-Redsys-payment-method
-Comap
+
+
+Compatible with Redsys payment method: http://magento.sistel.es/en/redsys-tpv-magento-2
+
